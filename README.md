@@ -155,11 +155,6 @@ The [sources page](https://postfinder.io/en/legal/) names each one.
 This package carries the two calls a widget makes. Postcodes, suburbs, regions
 and category hubs are in `@postfinder/client`, which works in the same places.
 
-Looking for Australian street addresses rather than locations? That is
-[Locio](https://locio.com.au): G-NAF address autocomplete, validation and
-geocoding, with [`@locio-au/vue`](https://www.npmjs.com/package/@locio-au/vue)
-for exactly this job.
-
 ## Licence
 
 MIT.
